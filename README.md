@@ -144,7 +144,7 @@ Figure 4 (leader s t on line 7, you can undo it easily with u)
 
 ![Image](img/1553110242-16740.png)
 
-### knit results
+### knit results (save as to view the file on your own computer)
 
 1: [html](knitOutput/test.html)
 2: [pdf](knitOutput/test.pdf)
