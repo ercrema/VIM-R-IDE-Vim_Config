@@ -81,14 +81,21 @@ nmap <LocalLeader>rq <Plug>RClose " rq = rquit, easier to remember
 vmap <LocalLeader>rq <Plug>RClose " idem
   
 ### Some screenshots
-Figure 1 (R and rmarkdown file, the img folder and the image-591 is inserted automatically using ferrine/md-img-paste.vim)
-![Image](img/1553109582-591.png)
+Figure 1 
+(R and rmarkdown file, the img folder and the images are inserted automatically using ferrine/md-img-paste.vim)
+![Image](img/1553110909-4357.png)
 Figure 2 (leader s s on line)
 ![Image](img/1553110117-26114.png)
 Figure 3 (leader s s on selection)
 ![Image](img/1553110189-31788.png)
-Figure 4 (leader s t on line 7)
+Figure 4 (leader s t on line 7, you can undo it easily with u)
 ![Image](img/1553110242-16740.png)
+
+### knit results
+1: [html]
+2: [pdf]
+3: [word]
+you name it...
 
 To be continued with citation...
 
