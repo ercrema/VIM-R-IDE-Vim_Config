@@ -122,6 +122,10 @@ vmap <LocalLeader>rq <Plug>RClose " idem
   
 ### Some screenshots
 
+Figure 0 (R code snippets)
+
+![Image](img/1553112465-28002.png)
+
 Figure 1 
 
 (R and rmarkdown file, the img folder and the images are inserted automatically using ferrine/md-img-paste.vim)
