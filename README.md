@@ -1,6 +1,8 @@
 # perfectRVimConfiguration
 
-A perfect R integration with vim. Make vim a better R IDE than Rstudio !!!
+A perfect R integration with vim. 
+
+**Make vim a better R IDE than Rstudio !!!**
 
 ## Vim 
 
