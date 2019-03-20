@@ -142,9 +142,9 @@ Figure 4 (leader s t on line 7, you can undo it easily with u)
 
 ### knit results
 
-1: [html](knitOutPut/test.html)
-2: [pdf](knitOutPut/test.pdf)
-3: [word](knitOutPut/test.docx)
+1: [html](knitOutput/test.html)
+2: [pdf](knitOutput/test.pdf)
+3: [word](knitOutput/test.docx)
 
 you name it...
 
