@@ -104,7 +104,7 @@ nmap <LocalLeader>ss <Plug>RDSendLine    " directly send line to R buffer when n
   
 nmap <LocalLeader>st <Plug>RDSendLineAndInsertOutput  
   
-" st = send test, this function shows the output in comment, since it's in vim we can simply press u to make the output disappearsee figure 3333
+" st = send test, this function shows the output in comment, since it's in vim we can simply press u to make the output disappearsee figure 4
 
 vmap <LocalLeader>ss <Plug>REDSendSelection " send selection in visual mode
   
