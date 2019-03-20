@@ -82,9 +82,13 @@ vmap <LocalLeader>rq <Plug>RClose " idem
   
 ### Some screenshots
 Figure 1 (R and rmarkdown file, the img folder and the image-591 is inserted automatically using ferrine/md-img-paste.vim)
+![Image](img/1553109582-591.png)
 Figure 2 (leader s s on line)
+![Image](img/1553110117-26114.png)
 Figure 3 (leader s s on selection)
+![Image](img/1553110189-31788.png)
 Figure 4 (leader s t on line 7)
+![Image](img/1553110242-16740.png)
 
 To be continued with citation...
 
