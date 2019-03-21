@@ -9,7 +9,7 @@ Plug 'roxma/nvi-yarp' " dependency
 Plug 'gaalcaras/ncm-R' " snippets
 Plug 'ncm2/ncm2-ultisnips' " ncm and ultisnips integration
 Plug 'SirVer/ultisnips'  " snippet engine
-“ snippets framework end
+" snippets framework end
 Plug 'chrisbra/csv.vim' "for viewing data directly in vim R (Nvim-R)
 Plug 'junegunn/goyo.vim' "for nice zoom effet when editing, see screenshot below
 Plug 'ferrine/md-img-paste.vim' "paste directly image in system clipboard to rmarkdown by putting images in an /img folder (created automatically
