@@ -1,5 +1,5 @@
 Be sure to check my post on medium for better reading experience and more screenshots ! 
-https://medium.com/@xiaoouwang/how-to-turn-vim-into-a-perfect-better-r-ide-and-rmarkdown-writer-than-rstudio-part-i-48e1293c9c05
+[ling](https://medium.com/@xiaoouwang/how-to-turn-vim-into-a-perfect-better-r-ide-and-rmarkdown-writer-than-rstudio-part-i-48e1293c9c05)
 
 The whole vimrc has been uploaded!
 
